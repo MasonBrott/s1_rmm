@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+gunicorn
+google-cloud-storage
+google-cloud-logging
+google-auth
